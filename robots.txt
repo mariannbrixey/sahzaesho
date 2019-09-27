@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahcohtiedu.jfflower.com/sitemap.xml
